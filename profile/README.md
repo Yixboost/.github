@@ -16,7 +16,7 @@ At Yixboost, we aim to provide an engaging and seamless gaming experience. Our p
 
 Stay connected with us!
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yixboost)  [![YouTube](https://img.shields.io/badge/YouTube-c71606?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yixboost-official)  
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yixboost)  [![YouTube](https://img.shields.io/badge/YouTube-c71606?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yixboost-official)   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tFSzDwGwZM)  
 
 
 ## Contact
