@@ -6,7 +6,7 @@ Welcome to the official GitHub page of **Yixboost NL**! Here, you will find code
 
 ## Unblocked Games
 
-Yixboost Games is Currently offline, it comes back at 8 March 2025, Stay Up-To-Date! 🎮  
+Play the best games on https://play.yixboost.dev ! 🎮  
 
 ## About Us
 
