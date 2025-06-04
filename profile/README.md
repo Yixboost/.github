@@ -21,7 +21,7 @@ Stay connected with us!
 
 ## Contact
 
-For inquiries, feel free to reach out to us via yixboost@mail.com
+For inquiries, feel free to reach out to us via support@yixboost.dev
 
 ---
 
