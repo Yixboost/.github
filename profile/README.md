@@ -2,7 +2,7 @@
 
 # Yixboost NL
 
-Welcome to the official GitHub page of **Yixboost NL**! Here, you will find codes for all our projects. 😍
+Welcome to the official GitHub page of **Yixboost NL**! Here, you will find codes for (almost) all our projects. 😍
 
 ## Unblocked Games
 
@@ -10,7 +10,7 @@ Play the best games on https://play.yixboost.dev ! 🎮
 
 ## About Us
 
-At Yixboost, we aim to provide an engaging and seamless gaming experience. Our projects are designed to bring joy and fun to players of all ages.
+At Yixboost, we aim to provide an engaging and seamless user experience. Our projects are designed to bring joy and fun to users of all ages.
 
 ## Social Media
 
