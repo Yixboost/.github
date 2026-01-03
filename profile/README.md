@@ -4,13 +4,13 @@
 
 Welcome to the official GitHub page of **Yixboost NL**! Here, you will find codes for (almost) all our projects. 😍
 
-## Unblocked Games
+## Games
 
-Play the best games on https://play.yixboost.dev ! 🎮  
+Play the best games on https://yixboost.eu ! 🎮  
 
 ## About Us
 
-At Yixboost, we aim to provide an engaging and seamless user experience. Our projects are designed to bring joy and fun to users of all ages.
+At Yixboost, we aim to provide an engaging and seamless user experience.
 
 ## Social Media
 
