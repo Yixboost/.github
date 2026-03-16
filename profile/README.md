@@ -2,15 +2,11 @@
 
 # Yixboost NL
 
-Welcome to the official GitHub page of **Yixboost NL**! Here, you will find codes for (almost) all our projects. 😍
+Welcome to the official GitHub page of **Yixboost NL**! Here, you will find source code for (almost) all our projects. 😍
 
 ## Games
 
 Play the best games on https://yixboost.eu ! 🎮  
-
-## About Us
-
-At Yixboost, we aim to provide an engaging and seamless user experience.
 
 ## Social Media
 
